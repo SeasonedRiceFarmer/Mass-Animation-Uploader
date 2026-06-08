@@ -6,7 +6,7 @@ Select any number of `KeyframeSequence`s in Explorer, pick a destination, and up
 
 ## Install
 
-Download from the [Creator Store](https://create.roblox.com/store/asset/112038381420156) and install as a local plugin.
+Download from the [Creator Store](https://create.roblox.com/store/asset/112038381420156) or grab the `.rbxmx` from [Releases](https://github.com/SeasonedRiceFarmer/Mass-Animation-Uploader/releases) and install as a local plugin.
 
 > Requires `CreateAssetAsync` beta enabled in Studio (`File → Beta Features`)
 
